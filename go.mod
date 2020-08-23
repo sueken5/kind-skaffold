@@ -1,3 +1,3 @@
-module github.com/sueken5/kind-scaffold
+module github.com/sueken5/kind-skaffold
 
 go 1.14

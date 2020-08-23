@@ -1,4 +1,4 @@
-ARG REPOSITORY_PATH=/go/src/github.com/sueken5/kind-scaffold
+ARG REPOSITORY_PATH=/go/src/github.com/sueken5/kind-skaffold
 
 FROM golang:1.14.0-buster as go_builder
 
